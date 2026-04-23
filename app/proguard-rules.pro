@@ -1,0 +1,4 @@
+-keep class com.jnetai.politracker.data.** { *; }
+-keep class com.jnetai.politracker.model.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
