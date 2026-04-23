@@ -9,7 +9,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.jnetai.politracker.PoliTracker
 import com.jnetai.politracker.R
-import com.jnetai.politracker.binding.ActivityMainBinding
+import com.jnetai.politracker.databinding.ActivityMainBinding
 import com.jnetai.politracker.model.Bill
 import kotlinx.coroutines.launch
 

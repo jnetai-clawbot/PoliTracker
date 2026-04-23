@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.jnetai.politracker.PoliTracker
-import com.jnetai.politracker.binding.ActivityDetailBinding
+import com.jnetai.politracker.databinding.ActivityDetailBinding
 import com.jnetai.politracker.model.Bill
 import kotlinx.coroutines.launch
 

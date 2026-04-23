@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.jnetai.politracker.BuildConfig
-import com.jnetai.politracker.binding.ActivityAboutBinding
+import com.jnetai.politracker.databinding.ActivityAboutBinding
 import org.json.JSONObject
 import java.net.URL
 
